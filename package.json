@@ -1,0 +1,23 @@
+
+{                                                                                
+  "name": "be.eloistree.staticcommandlinepusher",                              
+  "displayName": "Static Command Line Pusher",                        
+  "version": "0.0.1",                         
+  "unity": "2018.1",                             
+  "unityRelease": "",                             
+  "description": "This package allows to push commands as line to the application. It basely created to be used in asset bundle.",                         
+  "keywords": ["Script","Tool"],                       
+  "dependencies":{},     
+  "relatedPackages":{},     
+  "samples" : [],     
+  "author" : {
+"name":"",
+"mail":"",
+"url":""},     
+  "repository":{
+"type":"Git",
+"url":"https://github.com/EloiStree/2022_10_14_StaticCommandLinePusher.git",
+"footprint":"",
+"revision":""},     
+  "category": "Script"                   
+} 
