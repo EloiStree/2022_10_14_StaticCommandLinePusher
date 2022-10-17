@@ -1,0 +1,14 @@
+
+{                                                                   
+            "name": "be.eloistree.staticcommandlinepusher",          
+    "references": [
+],                                                              
+    "optionalUnityReferences": [],                                  
+    "includePlatforms": [],                                                  
+    "excludePlatforms": [],                                         
+    "allowUnsafeCode": false,                                       
+    "overrideReferences": false,                                    
+    "precompiledReferences": [],                                    
+    "autoReferenced": true,                                         
+    "defineConstraints": []                                         
+}                                                                   

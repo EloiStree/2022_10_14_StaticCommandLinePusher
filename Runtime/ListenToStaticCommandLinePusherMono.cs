@@ -21,6 +21,16 @@ public class ListenToStaticCommandLinePusherMono : MonoBehaviour
     {
         m_onReceivedCommand.Invoke(command);
     }
+
+    public void LogRef(in string command)
+    {
+        Debug.Log("Cmd:" + command);
+    }
+    public void Log(string command)
+    {
+
+        Debug.Log("Cmd:" + command);
+    }
 }
 public abstract class AbstractListenToStaticCommandLinePusherMono : MonoBehaviour
 {

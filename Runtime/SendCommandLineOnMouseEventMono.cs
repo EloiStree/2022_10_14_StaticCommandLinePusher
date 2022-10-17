@@ -7,13 +7,13 @@ public class SendCommandLineOnMouseEventMono : MonoBehaviour
 {
     public string[] m_onMouseEnterCommands;
     public UnityEvent m_onMouseEnter;
-    [Space(50)]
+    [Space(5)]
     public string[] m_onmouseDownCommands;
     public UnityEvent m_onmouseDown;
-    [Space(50)]
+    [Space(5)]
     public string[] m_onMouseUpCommands;
     public UnityEvent m_onMouseUp;
-    [Space(50)]
+    [Space(5)]
     public string[] m_onMouseExitCommands;
     public UnityEvent m_onMouseExit;
 
